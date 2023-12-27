@@ -21,7 +21,7 @@ public class MergeSortedArrays {
             j--;
             k--;
 
-            ss
+            
         }
     }
 
